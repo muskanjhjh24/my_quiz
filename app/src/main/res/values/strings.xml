@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="hola_people">HOLA PEOPLE!!!</string>
+    <string name="how_well_do_you_know_muskan">HOW WELL DO YOU KNOW MUSKAN</string>
+    <string name="_0_10">0/10</string>
+    <string name="about_food_that_i_ate">about food that i ate</string>
+    <string name="bitching_about_the_person_i_hate">bitching about the person i hate</string>
+    <string name="i_don_t_talk_on_phone_usually">i don\'t talk on phone usually</string>
+</resources>
